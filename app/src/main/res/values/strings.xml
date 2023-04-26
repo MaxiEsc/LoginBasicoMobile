@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NuevosTiposEditText</string>
+    <string name="nombre">Ingrese su Nombre</string>
+    <string name="contra">Ingrese su contraseña</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="in">Ingresar</string>
+</resources>
